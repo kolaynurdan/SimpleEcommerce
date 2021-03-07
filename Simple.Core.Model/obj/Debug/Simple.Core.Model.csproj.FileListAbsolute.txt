@@ -1,0 +1,17 @@
+C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\bin\Debug\Simple.Core.Model.dll.config
+C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\bin\Debug\Simple.Core.Model.dll
+C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\bin\Debug\Simple.Core.Model.pdb
+C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\bin\Debug\EntityFramework.dll
+C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\bin\Debug\EntityFramework.xml
+C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\bin\Debug\Microsoft.Build.Framework.pdb
+C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\bin\Debug\Microsoft.Build.Framework.xml
+C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\obj\Debug\Simple.Core.Model.csprojAssemblyReference.cache
+C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\obj\Debug\Simple.Core.Model.csproj.CoreCompileInputs.cache
+C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\obj\Debug\Simple.Core.Model.csproj.CopyComplete
+C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\obj\Debug\Simple.Core.Model.dll
+C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\obj\Debug\Simple.Core.Model.pdb
+C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\obj\Debug\Simple.Core.Model.Migrations.v1.resources
+C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\obj\Debug\Simple.Core.Model.csproj.GenerateResource.cache

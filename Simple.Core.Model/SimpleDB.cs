@@ -11,6 +11,12 @@ namespace Simple.Core.Model
 {
     public class SimpleDB:DbContext
     {
+        //Tablolar
+        public SimpleDB()
+            : base(@"Data Source=.;Initial Catalog=SimpleDB;Integrated Security=True")
+        {
+        }
+
         public DbSet<User> Users { get; set; }
         public DbSet<UserAddress> UserAddresses { get; set; }
 

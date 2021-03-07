@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Simple.Core.Model",
-    "\\Simple.Core.Model\\Entity",
-    "\\Simple.Core.Model\\Properties"
+    "\\Simple_UI"
   ],
+  "SelectedNode": "\\Simple_UI",
   "PreviewInSolutionExplorer": false
 }
