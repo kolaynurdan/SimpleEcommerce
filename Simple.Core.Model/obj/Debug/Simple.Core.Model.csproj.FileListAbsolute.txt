@@ -15,3 +15,4 @@ C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\obj\Debug\Simple.C
 C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\obj\Debug\Simple.Core.Model.pdb
 C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\obj\Debug\Simple.Core.Model.Migrations.v1.resources
 C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple.Core.Model\obj\Debug\Simple.Core.Model.csproj.GenerateResource.cache
+C:\Users\nurda\source\repos\SimpleEcommerce\Simple.Core.Model\obj\Debug\Simple.Core.Model.Migrations.v2.resources

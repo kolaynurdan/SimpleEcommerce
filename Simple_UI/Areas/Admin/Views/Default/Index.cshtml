@@ -1,0 +1,8 @@
+﻿
+@{
+    ViewBag.Title = "Admin";
+    var user = Session["AdminLoginUser"] as Simple.Core.Model.Entity.User;
+}
+
+<h2>Sayın @user.Name @user.LastName hosgeldiniz!</h2>
+

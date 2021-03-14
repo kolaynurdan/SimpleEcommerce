@@ -73,3 +73,10 @@ C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple_UI\obj\Debug\Simple_UI.pdb
 C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple_UI\bin\Microsoft.Build.Framework.dll
 C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple_UI\bin\Microsoft.Build.Framework.pdb
 C:\Users\nurda\Source\Repos\SimpleEcommerce\Simple_UI\bin\Microsoft.Build.Framework.xml
+C:\Users\nurda\source\repos\SimpleEcommerce\Simple_UI\bin\EntityFramework.dll
+C:\Users\nurda\source\repos\SimpleEcommerce\Simple_UI\bin\EntityFramework.SqlServer.dll
+C:\Users\nurda\source\repos\SimpleEcommerce\Simple_UI\bin\Simple.Core.Model.dll
+C:\Users\nurda\source\repos\SimpleEcommerce\Simple_UI\bin\Simple.Core.Model.pdb
+C:\Users\nurda\source\repos\SimpleEcommerce\Simple_UI\bin\Simple.Core.Model.dll.config
+C:\Users\nurda\source\repos\SimpleEcommerce\Simple_UI\bin\EntityFramework.xml
+C:\Users\nurda\source\repos\SimpleEcommerce\Simple_UI\bin\EntityFramework.SqlServer.xml

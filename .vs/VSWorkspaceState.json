@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Simple_UI"
+    "\\Simple.Core.Model",
+    "\\Simple.Core.Model\\Properties",
+    "\\Simple_UI",
+    "\\Simple_UI\\Areas",
+    "\\Simple_UI\\Areas\\Admin",
+    "\\Simple_UI\\Areas\\Admin\\Controllers"
   ],
-  "SelectedNode": "\\Simple_UI",
+  "SelectedNode": "\\Simple_UI\\Areas\\Admin\\Controllers\\AdminLoginController.cs",
   "PreviewInSolutionExplorer": false
 }
